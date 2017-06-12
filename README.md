@@ -2,10 +2,10 @@
 Golang (go) lib to calculate zodiac signs
 
 ## Get
-go get -u github.com/vsiv/gozodiac
+`go get -u github.com/vsiv/gozodiac`
 
 ## Usage
-`sign = GetZodiacSign(testTime)``
+`sign = GetZodiacSign(testTime)`
 
 ### Author
-[Vishal Shah (V)](http://www.vishalshah.org)
+[V](http://www.vishalshah.org)
