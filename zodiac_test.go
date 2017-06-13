@@ -22,4 +22,9 @@ func TestGetZodiacSign(t *testing.T) {
 	assert.NoError(t, err)
 	sign = GetZodiacSign(testTime)
 	assert.Equal(t, []ZodiacSign{Scorpio}, sign)
+
+	testTime, err = time.Parse(shortForm, "1942-Oct-11")
+	assert.NoError(t, err)
+	sign = GetZodiacSign(testTime)
+	assert.Equal(t, []ZodiacSign{Libra}, sign)
 }
