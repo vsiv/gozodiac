@@ -2,7 +2,7 @@ package gozodiac
 
 import "time"
 
-// ZodiacSign represents the zodiac sign
+// ZodiacSign represents the zodiac signs
 type ZodiacSign int
 
 func (s ZodiacSign) String() string {

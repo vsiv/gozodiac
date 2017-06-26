@@ -1,0 +1,2053 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Birth",
+				"BirthName\tstring ν"
+			],
+			[
+				"for",
+				"forceBeepUpdate\tbuilt-in ν"
+			],
+			[
+				"fo",
+				"forceBeepUpdate\tbuilt-in ν"
+			],
+			[
+				"pay",
+				"payloadMedia\t*PayloadMedia ν"
+			],
+			[
+				"Gra",
+				"GraphHashTags\t[]string ν"
+			],
+			[
+				"Gr",
+				"GraphHashTags\t[]string ν"
+			],
+			[
+				"onl",
+				"onlyGraphCombo\tbool ν"
+			],
+			[
+				"on",
+				"onlyGraphCombo\tbool ν"
+			],
+			[
+				"Graph",
+				"IndexGraphBeeps\t Ɩ"
+			],
+			[
+				"In",
+				"IndexGraphBeeps\t Ɩ"
+			],
+			[
+				"Ca",
+				"Category\t*bbdomain.BBOrderedCategories ν"
+			],
+			[
+				"allAl",
+				"allAliasesFileString\tstring ν"
+			],
+			[
+				"all",
+				"allAliases\t[][]string ν"
+			],
+			[
+				"Al",
+				"AliasInflections\tbool ν"
+			],
+			[
+				"Loca",
+				"LocationName\tstring ν"
+			],
+			[
+				"ver",
+				"versionParam\tint64 ν"
+			],
+			[
+				"pa",
+				"payload\t*UpdateChannelPayload ν"
+			],
+			[
+				"H",
+				"ClusterHealth\t*elastic.ClusterHealthService ƒ"
+			],
+			[
+				"clo",
+				"closedBeep\tbuilt-in ν"
+			],
+			[
+				"Spri",
+				"Sprintf\tstring ƒ"
+			],
+			[
+				"chann",
+				"channelsStr\t ν"
+			],
+			[
+				"IsUser",
+				"IsUserFollowingChannel\tbool, error ƒ"
+			],
+			[
+				"lt",
+				"ltPostTime\tstring ν"
+			],
+			[
+				"lte",
+				"ltePostTime\tstring ν"
+			],
+			[
+				"l",
+				"ltPostTime\tstring ν"
+			],
+			[
+				"Upda",
+				"UpdateChannel\t*int64, error ƒ"
+			],
+			[
+				"CreateChannel",
+				"CreateChannelFromPayload\tstring, error ƒ"
+			],
+			[
+				"GetIn",
+				"GetRequestInt64Param\tint64 ƒ"
+			],
+			[
+				"avata",
+				"avatarURL\t ν"
+			],
+			[
+				"F",
+				"Format\t*elastic.RangeQuery ƒ"
+			],
+			[
+				"T",
+				"TimeZone\t*elastic.RangeQuery ƒ"
+			],
+			[
+				"L",
+				"Lte\t*elastic.RangeQuery ƒ"
+			],
+			[
+				"G",
+				"Gte\t*elastic.RangeQuery ƒ"
+			],
+			[
+				"Fr",
+				"Format\t*elastic.RangeQuery ƒ"
+			],
+			[
+				"NewRange",
+				"NewRangeQuery\t*elastic.RangeQuery ƒ"
+			],
+			[
+				"from",
+				"fromRange\tstring ν"
+			],
+			[
+				"Mi",
+				"Millisecond\t Ɩ"
+			],
+			[
+				"fea",
+				"featuredChannelIDs\t[]string ν"
+			],
+			[
+				"ChanelMini",
+				"ChannelMiniResults\tstruct ʈ"
+			],
+			[
+				"BeepRes",
+				"BeepResults\tstruct ʈ"
+			],
+			[
+				"ChannelMini",
+				"ChannelMiniResults\tstruct ʈ"
+			],
+			[
+				"Str",
+				"Strings\t ƒ"
+			],
+			[
+				"P",
+				"ParseInLocation\ttime.Time, error ƒ"
+			],
+			[
+				"Fac",
+				"FacebookPageUpdateTime\tstring ν"
+			],
+			[
+				"Faceb",
+				"FacebookPageUpdateTime\tstring ν"
+			],
+			[
+				"You",
+				"YouTubeQs\t[]string ν"
+			],
+			[
+				"int",
+				"int64\tbuilt-in ʈ"
+			],
+			[
+				"V",
+				"Verified\tbool ν"
+			],
+			[
+				"GetRequestIn",
+				"GetRequestInt64Param\tint64 ƒ"
+			],
+			[
+				"AL",
+				"AliasInflections\tbool ν"
+			],
+			[
+				"Trim",
+				"TrimUnique\t[]string ƒ"
+			],
+			[
+				"chan",
+				"channelID\tstring ν"
+			],
+			[
+				"le",
+				"leafTag\tstring ν"
+			],
+			[
+				"CH",
+				"Channel\tstruct ʈ"
+			],
+			[
+				"ex",
+				"extSyncBeep\tbuilt-in ν"
+			],
+			[
+				"S",
+				"SliceContainsStr\tbool ƒ"
+			],
+			[
+				"GP",
+				"GPlusPageIDs\t[]string ν"
+			],
+			[
+				"GPl",
+				"GPlusPageIDs\t[]string ν"
+			],
+			[
+				"Vine",
+				"VineSearchEnabled\tbool ν"
+			],
+			[
+				"YouT",
+				"YouTubeSearchEnabled\tbool ν"
+			],
+			[
+				"Pin",
+				"PinterestSearchEnabled\tbool ν"
+			],
+			[
+				"Face",
+				"FacebookFanIDs\t[]string ν"
+			],
+			[
+				"GetChannelMiniResults",
+				"GetChannelMiniResults\t[]*bb.ChannelMiniResult, error ƒ"
+			],
+			[
+				"Ext",
+				"ExtSystemPostIDs\t[]string ν"
+			],
+			[
+				"ChannelRes",
+				"ChannelResults\tstruct ʈ"
+			],
+			[
+				"al",
+				"allPageInfos\t*facebook.AllPageInfos ν"
+			],
+			[
+				"Tri",
+				"TrimUnique\t[]string ƒ"
+			],
+			[
+				"Tr",
+				"TrimUnique\t[]string ƒ"
+			],
+			[
+				"Secrets",
+				"TwitterAPISecrets\t[]string ν"
+			],
+			[
+				"API",
+				"TwitterAPIKeys\t[]string ν"
+			],
+			[
+				"AP",
+				"TwitterAPISecrets\t[]string ν"
+			],
+			[
+				"No",
+				"Now\ttime.Time ƒ"
+			],
+			[
+				"beep",
+				"beepID\tstring ν"
+			],
+			[
+				"Co",
+				"Contains\tbool ƒ"
+			],
+			[
+				"Return",
+				"ReturnNotFound\t ƒ"
+			],
+			[
+				"getChannelMini",
+				"GetChannelMiniResultsForIDs\t[]*bb.ChannelMiniResult, error ƒ"
+			],
+			[
+				"UserFoll",
+				"GetUserFollowingChannels\t[]*bb.UserFollowingChannel, []string, error ƒ"
+			],
+			[
+				"Prin",
+				"Printf\t ƒ"
+			],
+			[
+				"prop",
+				"propertyName\tstring ν"
+			],
+			[
+				"id",
+				"idTokenPair\tstring ν"
+			],
+			[
+				"has",
+				"hasCategoryTags\tbool ν"
+			],
+			[
+				"cl",
+				"client\t*elastic.Client ν"
+			],
+			[
+				"matc",
+				"matches\t[]*hashTagMatch ν"
+			],
+			[
+				"Print",
+				"Printf\t ƒ"
+			],
+			[
+				"W",
+				"WalkPrefix\t ƒ"
+			],
+			[
+				"Pr",
+				"LongestPrefix\t[]byte, interface{}, bool ƒ"
+			],
+			[
+				"IndexBee",
+				"IndexBeepsFeed\t Ɩ"
+			],
+			[
+				"user",
+				"userResult\t*bb.UserMiniResult ν"
+			],
+			[
+				"GetUserRes",
+				"GetUserMiniResult\t*bb.UserMiniResult, error ƒ"
+			],
+			[
+				"UserRes",
+				"UserResult\tstruct ʈ"
+			],
+			[
+				"channel",
+				"channelIDs\t[]string ν"
+			],
+			[
+				"cate",
+				"CategoryTags\t[][]string ν"
+			],
+			[
+				"channe",
+				"channelIDs\t[]string ν"
+			],
+			[
+				"stri",
+				"strictMatch\tbool ν"
+			],
+			[
+				"ca",
+				"categoryTags8\t[]string ν"
+			],
+			[
+				"Vr",
+				"AllVirtualChannelCatTags\t[]*bbsearch.VirtualChannelCatTags ʈ"
+			],
+			[
+				"Av",
+				"AvatarURL\tstring ν"
+			],
+			[
+				"cra",
+				"Creator\t*bb.ChatUser ν"
+			],
+			[
+				"A",
+				"AvatarURL\tstring ν"
+			],
+			[
+				"hash",
+				"hashtags\t[]string ν"
+			],
+			[
+				"hasht",
+				"hashtags\t[]string ν"
+			],
+			[
+				"only",
+				"onlyTemp\tbool ν"
+			],
+			[
+				"not",
+				"notTemp\tbool ν"
+			],
+			[
+				"new",
+				"newUser\tbuilt-in ν"
+			],
+			[
+				"C",
+				"Channels\t[]string ν"
+			],
+			[
+				"Nested",
+				"TrimUniqueNestedSlice\t[][]string ƒ"
+			],
+			[
+				"Bi",
+				"BirthYear\tint ν"
+			],
+			[
+				"B",
+				"BirthYear\tint ν"
+			],
+			[
+				"GetUserResult",
+				"GetUserResultForID\t*bb.UserResult, error ƒ"
+			],
+			[
+				"MiniC",
+				"GetChannelMiniResultFSC\t*elastic.FetchSourceContext ƒ"
+			],
+			[
+				"so",
+				"sortChannelsByUpdateTimeDesc\tbool ν"
+			],
+			[
+				"sortC",
+				"sortChannelsByCreateTimeDesc\tbool ν"
+			],
+			[
+				"GetResulHi",
+				"GetChannelResultsFromSearchHits\t[]*bb.ChannelResult, error ƒ"
+			],
+			[
+				"SearchChan",
+				"SearchChannelsByName\t*elastic.SearchResult, error ƒ"
+			],
+			[
+				"GetB",
+				"GetRequestBoolParam\tbool ƒ"
+			],
+			[
+				"FSc",
+				"GetChannelMiniResultFSC\t*elastic.FetchSourceContext ƒ"
+			],
+			[
+				"Ret",
+				"ReturnBadRequest\t ƒ"
+			],
+			[
+				"U",
+				"UserID\tstring ν"
+			],
+			[
+				"GetUserMini",
+				"GetUserMiniResultsForIDs\t[]*bb.UserMiniResult, error ƒ"
+			],
+			[
+				"Un",
+				"TrimUnique\t[]string ƒ"
+			],
+			[
+				"Re",
+				"ReturnBadRequest\t ƒ"
+			],
+			[
+				"cat",
+				"categoryTags0\t[]string ν"
+			],
+			[
+				"img",
+				"imgMedia\t*bb.ChatImageMedia ν"
+			],
+			[
+				"NewImage",
+				"NewChatImageMedia\t*bb.ChatImageMedia ƒ"
+			],
+			[
+				"co",
+				"country\tstring ν"
+			],
+			[
+				"GetImageUR",
+				"GetImageMediaURLs\t*bb.ImageMediaURLs ƒ"
+			],
+			[
+				"GetImageURL",
+				"GetUserAvatarImageURL\tstring ƒ"
+			],
+			[
+				"Spa",
+				"TrimSpace\tstring ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/golang.sublime-build",
+					""
+				],
+				[
+					"Packages/User/golang.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/golang.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "puhs",
+		"selected_items":
+		[
+			[
+				"puhs",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"puh",
+				"Git: Push"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"set go",
+				"Set Syntax: GoSublime: Go"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"cm",
+				"Git: Commit"
+			],
+			[
+				"ocm",
+				"Git: Custom Command"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa open r",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"Push",
+				"Git: Push"
+			],
+			[
+				"ocmm",
+				"Git: Custom Command"
+			],
+			[
+				"psuh",
+				"Git: Push"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"cmm",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"psu",
+				"Git: Push"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remv",
+				"GoSublime: Add/Remove package"
+			],
+			[
+				"for",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"form",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"d",
+				"Git: Diff Current File"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"di",
+				"Git: Diff Current File"
+			],
+			[
+				"omm",
+				"Git: Commit"
+			],
+			[
+				"PUSH",
+				"Git: Push"
+			],
+			[
+				"COM",
+				"Git: Commit"
+			],
+			[
+				"Q",
+				"Git: Quick Add"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"upog",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"p",
+				"Git: Push"
+			],
+			[
+				"\t",
+				"About"
+			],
+			[
+				"over",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ps",
+				"Git: Push"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"diff cu",
+				"Git: Diff Current File"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git cur",
+				"Git: Diff Current File"
+			],
+			[
+				"difc",
+				"Git: Diff Current File"
+			],
+			[
+				"gid",
+				"Git: Diff"
+			],
+			[
+				"git curr",
+				"Git: Diff Current File"
+			],
+			[
+				"git cust",
+				"Git: Custom Command"
+			],
+			[
+				"git cu",
+				"Git: Custom Command"
+			],
+			[
+				"df",
+				"Git: Diff Current File"
+			],
+			[
+				"git di",
+				"Git: Diff"
+			],
+			[
+				"commm",
+				"Set Syntax: SublimeGit Commit Message"
+			],
+			[
+				"git",
+				"Git: Diff"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"gi",
+				"Git: Diff"
+			],
+			[
+				"gitd",
+				"Git: Diff Current File"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"gitdi",
+				"Git: Diff"
+			],
+			[
+				"ste go",
+				"Set Syntax: Go"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pish",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"gt dif",
+				"Git: Diff"
+			],
+			[
+				"git d",
+				"Git: Diff"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"git dif",
+				"Git: Diff"
+			],
+			[
+				"git ",
+				"Git: Diff"
+			],
+			[
+				"gitdif",
+				"Git: Diff"
+			],
+			[
+				"git lo",
+				"Git: Log"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"filed",
+				"FileDiffs: Menu"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"GoSublime: Read Me"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ds",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/gozodiac"
+	],
+	"file_history":
+	[
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/followapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/featuredchannelapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/searchbeepsapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/searchbeepsfeedapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/imageapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/beepapi_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/channelapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/searchapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/suggestchannelsapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bb/beeps.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/channelbulkapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/beepapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/searchchannelsapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/userapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/channelexplore.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/browsechannelsapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/searchchannelsfeedapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/searchusersapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/searchhashtagscache.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/searchchanneltagsapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/searchhashtagscache_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/channelstatsapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/extsystemapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/chatapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/cattagscache.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/userchatapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/bbapiutils.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/beepbulkapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbsearch/searchbeeps.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/updatepropspayload.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/apiutils.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/searchhashtagsapi.go",
+		"/Users/v/Library/Application Support/Sublime Text 3/Local/Session.sublime_session",
+		"/Users/v/Library/Application Support/Sublime Text 3/Packages/Default/Main.sublime-menu",
+		"/Users/v/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/v/Developer/temp/gaetemp/run.sh",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/beepextsync.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/searchhashtags_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi/miscapi.go",
+		"/Users/v/.bash_profile",
+		"/usr/local/Cellar/go/1.6.3/libexec/src/builtin/builtin.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bb/channelcreate.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bb/channels.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bb/userchat.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/vendor/bitbucket.com/vstarlabs/api/bbapi/followapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/vendor/bitbucket.com/vstarlabs/api/auth/auth.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/vendor/bitbucket.com/vstarlabs/api/bbapi/channelapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/vendor/bitbucket.com/vstarlabs/api/bbapi/browsechannelsapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/vendor/bitbucket.com/vstarlabs/api/bbsearch/searchchannelcattags.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/vendor/bitbucket.com/vstarlabs/api/bbapi/searchchannelsapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/vendor/bitbucket.com/vstarlabs/api/bbsearch/searchchannels.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/main.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/.gitignore",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/delete.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/update.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/flickr/flickr.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/flickr/flickrapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/facebook/facebookinsights.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/facebook/facebookpages.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/youtube/youtubechannels.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/youtube/api.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/flickr/flickrapi_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/twitch/twitchapi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/bulk.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/fetch.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/scrollscan.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/twitch/twitchapi_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/foursquare/foursquare.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/twitch/twitchapiresponse.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/tumblr/tumblr.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/google/scrape.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/cloud/twitter/api.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/twitch/twitch.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/google/scrape_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/create.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/helpers/log.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/helpers/slack.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/apihelpers/json.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/instagram/search.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/search.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/instagram/instagram.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/cloud/storage/cloudstorage.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/helpers/simplehttpreq.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/redishelper/redis.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/crawl/scrape.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/crawl/articles.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/crawl/crawlhelper.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/pinterest/pinterest.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/build.sh",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/vimeo/search.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/twitter/twitter.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/helpers/httphelper.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/mediahelpers/image.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/helpers/net.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/lib.sublime-project",
+		"/Users/v/Library/Application Support/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/v/Library/Application Support/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/Users/v/Library/Application Support/Sublime Text 3/Packages/User/JSONReindent.sublime-settings",
+		"/Users/v/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/v/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/v/Library/Application Support/Sublime Text 3/Packages/User/golang.sublime-settings",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/facebook/facebook.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/client.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/es_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/suggest.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/count.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/exists.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/multi.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es/utils.go",
+		"/usr/local/etc/elasticsearch/elasticsearch.yml",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/tumblr/tumblr_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/notifications/gcm.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/helpers/serialize.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/mediahelpers/media_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/googleplus/api.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/googleplus/api_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/vine/vine.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/vine/search.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/vine/vine_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/vimeo/video_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/youtube/api_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/crawl/scrape_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/json/json.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/vimeo/search_test.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/vimeo/apiclient.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/vimeo/video.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/foursquare/search.go",
+		"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/helpers/strings.go"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/flickr",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/extapis/foursquare",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/es",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/www/css",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/www/js",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river/client/js",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/www",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river/client/js",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river/",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river/client/",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river/client/js/ab",
+			"<project>",
+			"<project>,*.go",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"<project>",
+			"<project>,*.js",
+			"<project>",
+			"<project>,*.js",
+			"<project>",
+			"<project>,*.js",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs,-*/Godeps/*,-*/bower_components/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs,-*/Godeps/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"<project>",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs,-*/Godeps/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/,-*/node_modules/*,-*/bower_components/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs,-*/Godeps/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api,-*/Godeps/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api,-*/Godeps/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/ab",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river/client/js",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river/client/js",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/,*.js",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/graph",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/graph",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api,*.js,-*/node_modules/*,-*/bower_components/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api,*.js,-*/node_modules/*, -*/bower_components/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs,-*/bower_components/*,-*/node_modules/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river,-*/bower_components/*,-*/node_modules/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/beeps",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs,-*/bower_components/*,-*/node_modules/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/users",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/river",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs,-*/node_modules/*,-*/bower_components/*",
+			"/Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Birh",
+			"Zod",
+			"Birthday",
+			"OtherNames",
+			"Zodi",
+			"Desc",
+			"TrimUnique",
+			"Name",
+			"BBGeoPoint",
+			"SearchKeywords",
+			"searchKeywords",
+			"Pinter",
+			"Pint",
+			"SourceURL",
+			"ImgSrc",
+			"Exists",
+			"AnnotatedTitle",
+			"Annot",
+			"Pinte",
+			"MessageMatchesChannelNameAliases",
+			"extSyncBeep",
+			"s - %s\", beep.AnnotatedTitle",
+			"beepUpdateReason = \"",
+			"forceBeepUpdateReason",
+			"uBbid",
+			"NewVimeoVideoMedia",
+			"NewPlayableMediaType",
+			"NewImageMediaFromID",
+			"StorageID",
+			"navsearch",
+			"Graph",
+			"annotate hashtags",
+			"payload",
+			"HashTags",
+			"HashT",
+			"payload.HashTags",
+			"HashTags",
+			"onlyGraph",
+			"excludeGraph",
+			"Exists",
+			"Graph",
+			"GraphMediaBucketName",
+			"graphBeep,",
+			"graphBeep",
+			"graphBeep := helpers.GetRequestBoolParam(\"graphBeep\", false, r)",
+			"GetImageUploadBucketName",
+			"GraphMediaBucketName",
+			"Graph",
+			"excludeGraph := helpers.GetRequestBoolParam(\"excludeGraph\", false, r)",
+			"includeGraph",
+			"indices",
+			"bb.IndexGraphBeeps",
+			"if payload.GraphBeep {\n\t\tbeepIndex = bb.IndexGraphBeeps\n\t}",
+			"beepIndex",
+			"if graph {\n\t\tbeepIndex = bb.IndexGraphBeeps\n\t}",
+			"graph := helpers.GetRequestBoolParam(\"graph\", false, r)",
+			"if graph {\n\t\tbeepIndex = bb.IndexGraphBeeps\n\t}",
+			"bb.IndexBeepsFeed",
+			"Sticky",
+			"Exist",
+			"graphB",
+			"if onlyGraph {\n\t\tindices = []bbdomain.BBBeepsIndex{bb.IndexBeepsFeed}",
+			"getFeaturedChannelsBeeps",
+			"BBBeepIndex",
+			"index",
+			"only",
+			"graph",
+			"AllComments ",
+			"AllTopics ",
+			"topic",
+			"index",
+			"GetBeepCreateIndex",
+			"CreateBeep(",
+			"CreateBeep",
+			"NewSocialMediaImageMedia",
+			"ImageURL",
+			"Topic",
+			"UpdateChannelPayload",
+			"GetSuggestStructure",
+			"Type",
+			"What",
+			"Kind",
+			"BBOrderedCategories",
+			"Category",
+			"CType",
+			"Category",
+			"Owner",
+			"BBOrderedCategories",
+			"Birthday",
+			"LocationContinent",
+			"BirthPlaceLocID",
+			"BirthPlaceLoc",
+			"LocationName",
+			"CloseI",
+			"channel api:",
+			"UpdateESChannelAliasesAPI",
+			"update string slice props",
+			".Fuzzi",
+			"\"AUTO\"",
+			"AUTO",
+			"\"AUTO\"",
+			"name.au",
+			"nameAutocomplete",
+			"autocomplete",
+			"Super",
+			"mini := hel",
+			"mini",
+			"update channel ids:",
+			"all channel beeps:",
+			"get all mini channels:",
+			"get multiple mini channels:",
+			"get channel:",
+			"multi-channels:",
+			"user agent",
+			"uBb",
+			"uBB",
+			"BirthPlace",
+			"TrimUnique",
+			"Qs",
+			"YouTubePlaylistIDs",
+			"TwitterPageIDs",
+			"TwitterFanIDs",
+			"TwitterIDs",
+			"TwitterQuery",
+			"TwitterSearchEnabled",
+			"VineIDs",
+			"TwitterAPITokenSecrets",
+			"VimeoQuery"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"graph",
+			"graph := helpers.GetRequestBoolParam(\"graph\", false, r)",
+			"excludeGraph := helpers.GetRequestBoolParam(\"excludeGraph\", true, r)",
+			"excludeGraph",
+			"if onlyGraph {\n\t\tindices = []bbdomain.BBBeepsIndex{bb.IndexGraphBeeps}",
+			"elastic.v5",
+			"bbdomain.IsVirtualChannel(",
+			"bbdomain.BBChannelMiniResult",
+			"bbdomain.BBMedia",
+			"allStringifiedCatTagsList",
+			"allStringifiedCatTagChannels",
+			"allAlteredLeafCatTagChannels",
+			"allAlteredLeafCatTagsList",
+			"elastic \"gopkg.in/olivere/elastic.v5\"",
+			"refreshFollowerCount"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api":
+	{
+		"height": 112.0
+	},
+	"output.9o:///Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/graph":
+	{
+		"height": 112.0
+	},
+	"output.9o:///Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api/index":
+	{
+		"height": 289.0
+	},
+	"output.9o:///Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbapi":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/cache":
+	{
+		"height": 112.0
+	},
+	"output.9o:///Users/v/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/lib/graphdb":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 112.0
+	},
+	"output.git-init":
+	{
+		"height": 112.0
+	},
+	"output.git-pull":
+	{
+		"height": 112.0
+	},
+	"output.git-push":
+	{
+		"height": 112.0
+	},
+	"output.golang_build":
+	{
+		"height": 282.0
+	},
+	"pinned_build_system": "Packages/Golang Build/Go.sublime-build",
+	"project": "zodiac.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"follo",
+				"followapi.go"
+			],
+			[
+				"sear",
+				"searchbeepsfeedapi.go"
+			],
+			[
+				"searchbeep",
+				"searchbeepsapi.go"
+			],
+			[
+				"beepa",
+				"beepapi.go"
+			],
+			[
+				"sugge",
+				"suggestchannelsapi.go"
+			],
+			[
+				"bulk",
+				"channelbulkapi.go"
+			],
+			[
+				"sugg",
+				"suggestchannelsapi.go"
+			],
+			[
+				"beep",
+				"beepapi.go"
+			],
+			[
+				"beepap",
+				"beepapi.go"
+			],
+			[
+				"brow",
+				"browsechannelsapi.go"
+			],
+			[
+				"searchusers",
+				"searchusersapi.go"
+			],
+			[
+				"searchchann",
+				"searchchannelsfeedapi.go"
+			],
+			[
+				"search",
+				"searchchannelsapi.go"
+			],
+			[
+				"featu",
+				"featuredchannelapi.go"
+			],
+			[
+				"userap",
+				"userapi.go"
+			],
+			[
+				"chann",
+				"channelapi.go"
+			],
+			[
+				"channelst",
+				"channelstatsapi.go"
+			],
+			[
+				"channel",
+				"channelapi.go"
+			],
+			[
+				"user",
+				"userapi.go"
+			],
+			[
+				"bee",
+				"beepapi.go"
+			],
+			[
+				"usera",
+				"userapi.go"
+			],
+			[
+				"channelap",
+				"channelapi.go"
+			],
+			[
+				"feat",
+				"featuredchannelapi.go"
+			],
+			[
+				"searchc",
+				"searchchannelsapi.go"
+			],
+			[
+				"sea",
+				"searchbeepsapi.go"
+			],
+			[
+				"searchb",
+				"searchbeepsapi.go"
+			],
+			[
+				"beepse",
+				"searchbeepsfeedapi.go"
+			],
+			[
+				"upda",
+				"updatepropspayload.go"
+			],
+			[
+				"channelbu",
+				"channelbulkapi.go"
+			],
+			[
+				"cache",
+				"cattagscache.go"
+			],
+			[
+				"sug",
+				"suggestchannelsapi.go"
+			],
+			[
+				"feed",
+				"searchchannelsfeedapi.go"
+			],
+			[
+				"us",
+				"userapi.go"
+			],
+			[
+				"searchch",
+				"searchchannelsapi.go"
+			],
+			[
+				"channe",
+				"channelapi.go"
+			],
+			[
+				"a",
+				"apiutils.go"
+			],
+			[
+				"channels",
+				"searchchannelsapi.go"
+			],
+			[
+				"foll",
+				"followapi.go"
+			],
+			[
+				"chan",
+				"channelapi.go"
+			],
+			[
+				"searchbee",
+				"searchbeepsapi.go"
+			],
+			[
+				"categ",
+				"searchhashtagscache.go"
+			],
+			[
+				"beepf",
+				"searchbeepsfeedapi.go"
+			],
+			[
+				"searchchannelfee",
+				"searchchannelsfeedapi.go"
+			],
+			[
+				"searchchan",
+				"searchchannelsapi.go"
+			],
+			[
+				"chane",
+				"channelapi.go"
+			],
+			[
+				"chat",
+				"chatapi.go"
+			],
+			[
+				"searchus",
+				"searchusersapi.go"
+			],
+			[
+				"use",
+				"userapi.go"
+			],
+			[
+				"",
+				"channelapi.go"
+			],
+			[
+				"cat",
+				"searchchanneltagsapi.go"
+			],
+			[
+				"searchbe",
+				"searchbeepsapi.go"
+			],
+			[
+				"channelapi",
+				"channelapi.go"
+			],
+			[
+				"searc",
+				"searchchannelsapi.go"
+			],
+			[
+				"chata",
+				"chatapi.go"
+			],
+			[
+				"image",
+				"imageapi.go"
+			],
+			[
+				"chanelap",
+				"searchchannelsapi.go"
+			],
+			[
+				"mai",
+				"main.go"
+			],
+			[
+				"ma",
+				"main.go"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"searchcha",
+				"vendor/bitbucket.com/vstarlabs/api/bbapi/searchchannelsapi.go"
+			],
+			[
+				"q",
+				"extapis/foursquare/foursquare.go"
+			],
+			[
+				"ins",
+				"extapis/instagram/instagram.go"
+			],
+			[
+				"insta",
+				"extapis/instagram/instagram.go"
+			],
+			[
+				"slack",
+				"helpers/slack.go"
+			],
+			[
+				"b",
+				"build.sh"
+			],
+			[
+				"bu",
+				"build.sh"
+			],
+			[
+				"google/scrape.go",
+				"extapis/google/scrape.go"
+			],
+			[
+				"tw",
+				"extapis/twitter/twitter.go"
+			],
+			[
+				"scr",
+				"crawl/scrape.go"
+			],
+			[
+				"ne",
+				"helpers/net.go"
+			],
+			[
+				"ae",
+				"crawl/articles.go"
+			],
+			[
+				"cou",
+				"es/count.go"
+			],
+			[
+				"tu",
+				"extapis/tumblr/tumblr.go"
+			],
+			[
+				"vine",
+				"extapis/vine/vine.go"
+			],
+			[
+				"inst",
+				"extapis/instagram/instagram.go"
+			],
+			[
+				"vine.",
+				"extapis/vine/vine.go"
+			],
+			[
+				"extapis/google/scrape.go",
+				"extapis/google/scrape.go"
+			],
+			[
+				"google",
+				"extapis/google/scrape.go"
+			],
+			[
+				"bui",
+				"build.sh"
+			],
+			[
+				"yo",
+				"cloud/youtube/api.go"
+			],
+			[
+				"you",
+				"cloud/youtube/api.go"
+			],
+			[
+				"slac",
+				"helpers/slack.go"
+			],
+			[
+				"image.go",
+				"mediahelpers/image.go"
+			],
+			[
+				"cloudstorage.go",
+				"cloud/storage/cloudstorage.go"
+			],
+			[
+				"storage/cloudstorage.go",
+				"cloud/storage/cloudstorage.go"
+			],
+			[
+				"p",
+				"notifications/push.go"
+			],
+			[
+				"sli",
+				"helpers/slices.go"
+			],
+			[
+				"im",
+				"mediahelpers/image.go"
+			],
+			[
+				"cloud/youtube/api.go",
+				"cloud/youtube/api.go"
+			],
+			[
+				"log",
+				"helpers/log.go"
+			],
+			[
+				"log.go",
+				"helpers/log.go"
+			],
+			[
+				"helpers/httphelper.go",
+				"helpers/httphelper.go"
+			],
+			[
+				"push_",
+				"notifications/push_test.go"
+			],
+			[
+				"geo",
+				"geo/geo.go"
+			],
+			[
+				"abusers",
+				"conf/elasticsearch/scripts/update-abuser-mapping.sh"
+			],
+			[
+				"comm",
+				"conf/elasticsearch/commands-help.txt"
+			],
+			[
+				"beeps-",
+				"conf/elasticsearch/templates/beeps-published.json"
+			],
+			[
+				"beep-re",
+				"conf/elasticsearch/aliases/beeps-replies.json"
+			],
+			[
+				"main",
+				"api/main.go"
+			],
+			[
+				"index",
+				"api/www/index.html"
+			],
+			[
+				"www",
+				"api/www/index.html"
+			],
+			[
+				"api/sea",
+				"api/search/api.go"
+			],
+			[
+				"apihelpers",
+				"api/apihelpers/net.go"
+			],
+			[
+				"lib/es",
+				"lib/es/api.go"
+			],
+			[
+				"ind",
+				"api/www/index.html"
+			],
+			[
+				"/users.go",
+				"api/ab/users.go"
+			],
+			[
+				"noti",
+				"api/ab/notifications.go"
+			],
+			[
+				"users.go",
+				"api/ab/users.go"
+			],
+			[
+				"beep.ht",
+				"api/www/templates/beep.html"
+			],
+			[
+				"beep.j",
+				"river/client/js/ab/beeps.js"
+			],
+			[
+				"view.",
+				"river/client/js/graph/channels/view.js"
+			],
+			[
+				"ost",
+				"river/client/river/ab/post.html"
+			],
+			[
+				"pos",
+				"river/client/js/ab/post.js"
+			],
+			[
+				"das",
+				"river/client/js/dashboard.js"
+			],
+			[
+				"beeps.js",
+				"river/client/js/ab/beeps.js"
+			],
+			[
+				"river.",
+				"river/client/js/river.js"
+			],
+			[
+				"dash",
+				"river/client/js/dashboard.js"
+			],
+			[
+				"tree",
+				"river/client/river/graph/channels/rels/tree.html"
+			],
+			[
+				"tree.",
+				"river/client/js/graph/channels/rels/tree.js"
+			],
+			[
+				"ri",
+				"river/river.go"
+			],
+			[
+				"post.",
+				"river/client/js/ab/post.js"
+			],
+			[
+				"review",
+				"river/client/river/fragments/news-review-template.html"
+			],
+			[
+				"river.js",
+				"river/client/js/river.js"
+			],
+			[
+				"not",
+				"api/ab/notifications.go"
+			],
+			[
+				"tree.js",
+				"river/client/js/graph/channels/rels/tree.js"
+			],
+			[
+				"riverind",
+				"river/client/river/index.html"
+			],
+			[
+				"river",
+				"river/client/js/river.js"
+			],
+			[
+				"riv",
+				"river/river.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "a",
+		"selected_items":
+		[
+			[
+				"a",
+				"~/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/api-gae.sublime-project"
+			],
+			[
+				"bbse",
+				"~/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bbsearch/bbsearch.sublime-project"
+			],
+			[
+				"bb",
+				"~/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bb/bb.sublime-project"
+			],
+			[
+				"ap",
+				"~/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/api-gae.sublime-project"
+			],
+			[
+				"bus",
+				"~/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/buscar/buscar.sublime-project"
+			],
+			[
+				"api",
+				"~/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/api-gae/api-gae.sublime-project"
+			],
+			[
+				"bb.",
+				"~/Developer/vstarlabs/go/src/bitbucket.com/vstarlabs/bb/bb.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
